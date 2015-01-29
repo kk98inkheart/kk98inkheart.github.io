@@ -1,0 +1,19 @@
+<!Doctype>
+<head>
+<style>
+h1{ color:blue}
+body {
+background-color: rgb(0, 24, 51)   }
+</style>
+</head>
+<body>
+ <h1>This is my practice page</h1>
+ <p> I honestly don't know how to start this.... <br>
+ The only reason why I'm writing this is because I'm trying to learn how to
+ code, and doing so has proven interesting. Sadly, it's like learning a new
+ language...</p>
+ <img src="http://fc04.deviantart.net/fs71/f/2013/045/c/c/le_happy_face_by_luchocas-d5uwq7r.png"
+ alt="smiley face making thumbs up. kinda sarcastic, i suppose...">
+ <p> It's ok though! I'm learning--see!</p>
+
+</body>
